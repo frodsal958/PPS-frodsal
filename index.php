@@ -3,7 +3,8 @@
 
 <body>
 	<?php
-	echo "Hola Mundo frodsal. Vamos a modificar estas lineas necesarias para la tarea";
+		echo "Hola Mundo frodsal. Vamos a modificar estas lineas necesarias para la tarea";
+		echo  "Ahora aqui integraré una linea más bonita";
 	?>
 </body>
 
